@@ -1,0 +1,17 @@
+{
+  "name": "raphaeu/ssh2",
+  "description": "Ssh php",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Rafael Aguiar",
+      "email": "raphaeu.aguiar@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "raphaeu\\": "src/"
+    }
+  }
+}
